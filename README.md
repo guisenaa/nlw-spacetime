@@ -1,3 +1,3 @@
 <p align="center">
-  <img scr=".github/preview.png" alt="Demonstração do Projeto" width="100%"/>
+  <img srccl=".github/preview.png" alt="Demonstração do Projeto" width="100%"/>
 </p>
