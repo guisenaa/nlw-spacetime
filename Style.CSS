@@ -95,11 +95,6 @@ nav {
   line-height: 28px;
 }
 
-.profile {
-  text-decoration: none;
-  color: #9e9ea0;
-}
-
 aside {
   grid-template-areas: profile;
   display: flex;
